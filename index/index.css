@@ -1,0 +1,52 @@
+.title {
+    font-size: 100px;
+    font-weight: bold;
+    color: #c6e2e9;
+    font-family: monospace;
+    letter-spacing: 12px;
+}
+
+header {
+    text-align: center;
+    padding-left: 20px;
+    padding-bottom: 20PX;
+    background-color: #dab894;
+}
+
+#p1, td {
+color:#f1ffc4 ;
+font-family: monospace;
+}
+
+#p2, th {
+color:#ffcaaf ;
+font-family: monospace;
+}
+
+#t1 {
+    border: bold 5px #a7bed3;
+}
+
+table, th, td {
+    border: 1px solid #c6e2e9;
+    background-color: #dab894;
+    text-align: center;
+  }
+
+table {
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    background-color: #f1ffc4;
+    font-weight: bold;
+    font-size: 20px;
+    color:#c6e2e9;
+    font-family: monospace;
+    letter-spacing: 10px;
+
+}
+  
+
+  
